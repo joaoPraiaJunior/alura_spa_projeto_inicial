@@ -1,8 +1,8 @@
 ## Pre create issue
 
-- [] Read the guidelines
-- [] Teste in all browsers
-- []...
+- [ ] Read the guidelines
+- [ ] Teste in all browsers
+- [ ] ...
 
 
 ## Description
